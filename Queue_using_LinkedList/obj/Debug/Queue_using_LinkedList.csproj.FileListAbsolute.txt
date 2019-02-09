@@ -1,0 +1,6 @@
+C:\Users\yarie\Documents\Udemy\Csharp\Queue_using_LinkedList\Queue_using_LinkedList\bin\Debug\Queue_using_LinkedList.exe.config
+C:\Users\yarie\Documents\Udemy\Csharp\Queue_using_LinkedList\Queue_using_LinkedList\bin\Debug\Queue_using_LinkedList.exe
+C:\Users\yarie\Documents\Udemy\Csharp\Queue_using_LinkedList\Queue_using_LinkedList\bin\Debug\Queue_using_LinkedList.pdb
+C:\Users\yarie\Documents\Udemy\Csharp\Queue_using_LinkedList\Queue_using_LinkedList\obj\Debug\Queue_using_LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\yarie\Documents\Udemy\Csharp\Queue_using_LinkedList\Queue_using_LinkedList\obj\Debug\Queue_using_LinkedList.exe
+C:\Users\yarie\Documents\Udemy\Csharp\Queue_using_LinkedList\Queue_using_LinkedList\obj\Debug\Queue_using_LinkedList.pdb
